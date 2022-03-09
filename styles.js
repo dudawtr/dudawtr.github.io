@@ -555,7 +555,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\MariaEduarda\Documents\Isika\AL11\Angular-Project_Example\Angular-Test\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Users\MariaEduarda\Documents\Isika\AL11\GitLabRepo_AL11\gotraining_angular\src\styles.css */"./src/styles.css");
 
 
 /***/ })

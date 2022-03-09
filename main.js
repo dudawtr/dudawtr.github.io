@@ -206,7 +206,7 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 var ExerciceService = /** @class */ (function () {
     function ExerciceService(http) {
         this.http = http;
-        this.baseurl = "http://projectgotrainingbackend-env.eba-y2twctqj.sa-east-1.elasticbeanstalk.com/";
+        this.baseurl = "https://gotraining-backend.herokuapp.com/";
     }
     ExerciceService.prototype.getAllExercices = function () {
         return this.http.get(this.baseurl + 'nodeapi');
@@ -365,7 +365,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\MariaEduarda\Documents\Isika\AL11\Angular-Project_Example\Angular-Test\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\MariaEduarda\Documents\Isika\AL11\GitLabRepo_AL11\gotraining_angular\src\main.ts */"./src/main.ts");
 
 
 /***/ })
