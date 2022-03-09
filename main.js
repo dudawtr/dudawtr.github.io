@@ -372,3 +372,8 @@ module.exports = __webpack_require__(/*! C:\Users\MariaEduarda\Documents\Isika\A
 
 },[[0,"runtime","vendor"]]]);
 //# sourceMappingURL=main.js.map
+
+cors: {
+origin: [‘https://dudawtr.github.io’, ‘http://localhost:5000’],
+methods: ‘GET,HEAD,PUT,PATCH,DELETE’,
+},
